@@ -604,6 +604,7 @@ section {
     .header .navbar.active {
         right: 0;
         background : var(--black);
+        color : #fff;
     }
 
     .header .navbar a {
