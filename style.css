@@ -603,6 +603,7 @@ section {
 
     .header .navbar.active {
         right: 0;
+        background : var(--black);
     }
 
     .header .navbar a {
