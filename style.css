@@ -604,11 +604,10 @@ section {
     .header .navbar.active {
         right: 0;
         background : var(--black);
-        color : #fff;
     }
 
     .header .navbar a {
-        color: var(--black);
+        color: #fff;
         display: block;
         margin: 1.5rem;
         padding: .5rem;
